@@ -4,6 +4,11 @@ Device name: Poco F5/Redmi Note 12 Turbo
 Device codename: marble
 Device maintainer: SharmagRit
 
+=×=×= 27th August 2024 =×=×=
+* Synced with latest RisingOS v5.0 Lyonesse sources
+* Based on rebase los tree, so clean flash is must
+* Updated BCR to v1.69
+
 =×=×= 28th July 2024 =×=×=
 * Synced with latest RisingOS v4.1 Kailash sources
 * Clean flash is must
