@@ -1,0 +1,39 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi K20 Pro / MI 9T Pro (raphael/in)
+Device maintainer: Mohammad Al Arabi (@YourDulavai)
+Required firmware: MIUI A11 Firmware of your region
+
+===== 28-08-24 =====
+
+- Initial QPR3 build
+- Fixed Leica camera
+- Fixed HBM
+- Fixed Memory management
+- Fixed copy/paste delay in clip board
+- Fixed HBM/DcDimming layout in settings
+- Fixed Audio
+- Fixed slow charging issue
+- Add per app thermal profile
+- Ship with qti thermal
+- Ship with KProfile
+- Enable CrDroid doze
+- Drop MMS user agent
+- Remove AOSP rild property
+- Build missing libraries for 14 QPR3
+- QPR3 install_symlink changes
+- Convert packages allowed to use aux cameras to prop
+- Add system ui restart in restart advanced menu
+- Initial FCM generate
+- Inherit common qti,xiaomi and lineage FCM
+- Declare IMS libs as symlinks during extraction
+- Declare EGL libs as symlinks during extraction
+- Mark CNE symlink target as required package
+- Explicitly disable "Enable GL comp backpressure"
+- Disable backpressure propagation in SF
+- unset BOARD_USERDATAIMAGE_PARTITION_SIZE
+- Build libpng.vendor
+- Allow skipping of nativeDetachImage
+- Build missing libwatermark_shim
+- label more camera props
+- Enjoy the Stunning UI, and Customizations experience, without compromising the smoothness. #KeepRising
