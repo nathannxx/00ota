@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "AAMIR ALI",
+			"oem": "Realme",
+			"device": "Realme X50 Pro",
+			"filename": "RisingOS-5.0-FINAL-20240828-CORE-OFFICIAL-bladerunner-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-official/files/5.x/CORE/bladerunner/RisingOS-5.0-FINAL-20240828-CORE-OFFICIAL-bladerunner-ota.zip/download",
+			"timestamp": 1724852171,
+			"md5": "53b7d27371200a189ce52a2412426769",
+			"sha256": "1dab4db18fbd4f5c08877b2535d44cfe7ee7421e6905bc37e2d401ad921718a1",
+			"size": 2985164038,
+			"version": "5.0-Lyonesse",
+			"buildtype": "FINAL",
+			"forum": "https://t.me/Alischatroom",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/Aamirr_Ali",
+			"dt": "https://github.com/RisingOSS-devices/device_realme_bladerunner",
+			"common-dt": "https://github.com/RisingOSS-devices/device_realme_sm8250-common",
+			"kernel": "https://github.com/RisingOSS-devices/kernel_realme_sm8250"
+		}
+	]
+}
