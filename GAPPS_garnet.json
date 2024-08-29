@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "hiroshi. (Superuser)",
+			"oem": "Xiaomi",
+			"device": "Redmi Note 13 Pro 5G / POCO X6",
+			"filename": "RisingOS-5.0-FINAL-20240828-GAPPS-OFFICIAL-garnet-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-official/files/5.x/VANILLA/garnet/RisingOS-5.0-FINAL-20240829-GAPPS-OFFICIAL-garnet-ota.zip/download",
+			"timestamp": 1724887531,
+			"md5": "63ab853cf8ad84ea08e7534d6c9946e2",
+			"sha256": "d6e5b90d7671a41d940303067a1d66bd1c267445310089193fe5b4331cc1e79b",
+			"size": 2878289634,
+			"version": "5.0-Lyonesse",
+			"buildtype": "FINAL",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/gems_hiro",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
