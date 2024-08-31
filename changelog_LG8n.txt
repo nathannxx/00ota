@@ -3,6 +3,5 @@ Build type: Weekly
 Device: TECNO POVA 4 Pro (LG8n)
 Device maintainer: Ren (Shirayuki39/Shirayuki428)
 
-===== 08-26-2024 =====
-- RisingOS 5.0 Changes
-- Initial official build
+===== 08-31-2024 =====
+- RisingOS 5.1 Changes
