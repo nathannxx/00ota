@@ -8,6 +8,11 @@ Required firmware: RealmeUI 3
 
 ====--Clean  Flash Mandatory---====
 
+===== 31.08.24 =====
+- Bump to RisingOS 5.1
+- Many more underhood changes
+- Improved system performance and stability
+
 ===== 28.08.24 =====
 - Bump to RisingOS 5.0
 - Many more underhood changes
