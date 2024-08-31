@@ -6,3 +6,6 @@ Device maintainer: RisenID
 ===== 08-29-2024 =====
 - RisingOS 5.0 Changes
 - Initial official build
+
+===== 08-31-2024 =====
+- RisingOS 5.0 Changes
