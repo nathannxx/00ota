@@ -3,6 +3,14 @@ Build type: Monthly
 Device: Xiaomi POCO X3 NFC (surya)
 Device maintainer: Skyy丨アラタ
 
+===== 01-09-24 =====
+
+- Synced to latest source
+- Activate quickswitch launcher
+- KSU Supported
+- Included GalleryGO
+
+
 ===== 30-08-24 =====
 
 - Fixed Blur on Portrait mode (Leica)
