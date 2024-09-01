@@ -2,11 +2,16 @@ Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Redmi Note 13 Pro 5G / POCO X6
 Device maintainer: hiroshi. (Superuser)
-Required firmware: OS1.0.9.0.UNRMIXM (HyperOS Global) / OS1.0.8.0.UNRINXM (HyperOS India) / OS1.0.7.0.UNRCNXM (HyperOS China)
+Required firmware: OS1.0.11.0.UNRMIXM (HyperOS Global) / OS1.0.10.0.UNRINXM (HyperOS India) / OS1.0.8.0.UNRCNXM (HyperOS China)
 
-============ 28 August 2024 ===============
+============ 28 August 2024 (5.0) ===============
 
 - Initial official build
 - Fix dolby bluetooth routes
 - Address Widevine L1 decrypt failure (crunchyroll, netflix, prime video, etc)
+- Fix pocket mode screen malfunctioning
 
+============= 1 September 2024 (5.1) ===============
+- Fix screen recorder with "high quality" enabled
+- re-enable sound engine support
+- move thermal profiles configuration to "System" settings category
