@@ -2,7 +2,7 @@ Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Redmi Note 13 Pro 5G / POCO X6
 Device maintainer: hiroshi. (Superuser)
-Required firmware: OS1.0.11.0.UNRMIXM (HyperOS Global) / OS1.0.10.0.UNRINXM (HyperOS India) / OS1.0.8.0.UNRCNXM (HyperOS China)
+Required firmware: OS1.0.11.0.UNRMIXM (HyperOS Global) / OS1.0.8.0.UNRINXM (HyperOS India) / OS1.0.7.0.UNRCNXM (HyperOS China)
 
 ============ 28 August 2024 (5.0) ===============
 
