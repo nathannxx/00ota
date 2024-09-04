@@ -32,3 +32,11 @@ Required firmware: Android 14 U1TD34M.94-12-7 or newer
 - Rework UClamp configuration
 - Misc Performance improvements
 - Set default up/down rate limits to 500/1000 us
+
+===== 04/09/2024 ======
+- Source Upstream
+- Switch to Stock MotCamera4
+- Checkout status_bar_padding_(start/end) from Stock
+- Stop mtk_secure_element_hal_service on non-nfc devices
+- Misc changes
+
