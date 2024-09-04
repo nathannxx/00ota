@@ -1,28 +1,28 @@
 {
 	"response": [
 		{
-			"maintainer": "Ayan",
-			"oem": "Motorola",
-			"device": "Motorola G54",
-			"filename": "RisingOS-5.0-FINAL-20240821-VANILLA-OFFICIAL-cancunf-ota-signed.zip",
-			"download": "https://sourceforge.net/projects/risingos-official/files/4.x/VANILLA/cancunf/RisingOS-5.0-FINAL-20240821-VANILLA-OFFICIAL-cancunf-ota-signed.zip/download",
-			"timestamp": 1724222570,
-			"md5": "aae4fa6b59294268b68956f748f8d311",
-			"sha256": "18b279cda22407d04b1c20be7b4698292c82a2577bb3303ed256ed413a5b3ef1",
-			"size": 1417457623,
-			"version": "5.0-Lyonesse",
-			"buildtype": "FINAL",
-			"forum": "https://t.me/motorolag54official",
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "RisingOS-5.1-FINAL-20240902-VANILLA-OFFICIAL-cancunf-ota-signed.zip",
+			"download": "",
+			"timestamp": 1725277265,
+			"md5": "96213e5e412c8ee62cbe0e38c097f716",
+			"sha256": "810f826e7891c6a728ccd6d509381f27274b073fba4c05aa80152e869f0d6d04",
+			"size": 1533298203,
+			"version": "5.1-Lyonesse",
+			"buildtype": "",
+			"forum": "",
 			"gapps": "",
 			"firmware": "",
 			"modem": "",
 			"bootloader": "",
 			"recovery": "",
 			"paypal": "",
-			"telegram": "https://t.me/not_ayan99",
-			"dt": "https://github.com/RisingOSS-devices/android_device_<oem>_<device_codename>",
-			"common-dt": "https://github.com/RisingOSS-devices/android_device_<orm>_<SOC>-common",
-			"kernel": "https://github.com/RisingOSS-devices/android_kernel_<oem>_<SOC>"
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
 		}
 	]
 }
