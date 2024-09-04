@@ -2,7 +2,11 @@ Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Redmi Note 13 Pro 5G / POCO X6
 Device maintainer: hiroshi. (Superuser)
-Required firmware: OS1.0.11.0.UNRMIXM (HyperOS Global) / OS1.0.8.0.UNRINXM (HyperOS India) / OS1.0.7.0.UNRCNXM (HyperOS China)
+Required firmware: 
+- GLOBAL - **any** version from OS1.0.9.0.UNRMIXM to OS1.0.12.0.UNRMIXM (models ending in "G") 
+- INDIA - OS1.0.8.0.UNRINXM (models ending in "I") 
+- CHINA - OS1.0.7.0.UNRCNXM (models ending in "C")
+(Global will work on any model, but you MUST have the modem.img flashed for your model corresponding with the versions above)
 
 ============ 28 August 2024 (5.0) ===============
 
@@ -11,7 +15,18 @@ Required firmware: OS1.0.11.0.UNRMIXM (HyperOS Global) / OS1.0.8.0.UNRINXM (Hype
 - Address Widevine L1 decrypt failure (crunchyroll, netflix, prime video, etc)
 - Fix pocket mode screen malfunctioning
 
-============= 1 September 2024 (5.1) ===============
+============= 1 September 2024 (5.1 - GAPPS Only) ===============
+
 - Fix screen recorder with "high quality" enabled
 - re-enable sound engine support
 - move thermal profiles configuration to "System" settings category
+
+============= 4 September 2024 (5.1) ===============
+
+- add more missing dolby audio codecs
+- switch to qti thermal hal
+- increase minimum brightness (to compensate for specific panels becoming too dim)
+- use AOSP surfaceflinger
+- enable more color calibrations for display (sRGB, saturated)
+- disable Smart Power Off (temporarily)
+- fix device waking when pressing fingerprint sensor
