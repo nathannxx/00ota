@@ -5,6 +5,18 @@ Device codename: marble
 Device maintainer: SharmagRit
 
 =×=×= 27th August 2024 =×=×=
+* Synced with latest RisingOS v5.1 Lyonesse sources
+* Based on rebase los tree, so clean flash is must
+* marble: update sensor notifier extension
+* marble: Update blobs and fingerprint from V816.0.8.0.UMRMIXM
+* sm8450-common: Fix Dt2w
+* sm8450-common: overlay: Add reboot to fastbootd
+* sm8450-common: Provide doze_mode permission
+* sm8450: Updated Kernel from los
+* miuicamera: Update from marble OS1.0.8.0.UMRMIXM and apply patches during extraction
+* miuicamera: Override third-party camera apps
+
+=×=×= 27th August 2024 =×=×=
 * Synced with latest RisingOS v5.0 Lyonesse sources
 * Based on rebase los tree, so clean flash is must
 * Updated BCR to v1.69

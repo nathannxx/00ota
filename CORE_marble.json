@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "SharmagRit",
+			"oem": "POCO",
+			"device": "POCO F5",
+			"filename": "RisingOS-5.1-FINAL-20240903-CORE-OFFICIAL-marble-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-official/files/5.x/CORE/marble/RisingOS-5.1-FINAL-20240903-CORE-OFFICIAL-marble-ota.zip/download",
+			"timestamp": 1725382809,
+			"md5": "c503e4a0c449c1bbe235644c94e86a11",
+			"sha256": "b60e3b469a5c57b877c5241e3834a8994b78f3965d72aaddccc103d0a5dacdcc",
+			"size": 2324190160,
+			"version": "5.1-Lyonesse",
+			"buildtype": "FINAL",
+			"forum": "https://forum.xda-developers.com/t/rom-13-marble-poco-f5-official-risingos-1-2-5-camelot.4611765/",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/marble/",
+			"paypal": "https://www.paypal.com/paypalme/RiteshKrSharma",
+			"telegram": "https://t.me/SharmagRit",
+			"dt": "https://github.com/xiaomi-sm8450-marble/android_device_xiaomi_marble",
+			"common-dt": "https://github.com/xiaomi-sm8450-marble/android_device_xiaomi_sm8450-common",
+			"kernel": "https://github.com/xiaomi-sm8450-marble/android_kernel_xiaomi_sm8450"
+		}
+	]
+}
