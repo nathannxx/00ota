@@ -3,6 +3,7 @@ Build type: Monthly
 Device: Generic System Image (GSI)
 Device maintainer: ItsLynix (UniversalX)
 
-===== 02-06-2024 =====
-- Rising v3.2 changes
-- Upstreamed BPF Patches (Increased support for legacy (3.14 and below) kernels.)
+===== 06-09-2024 =====
+- Rising v5.2 Changes (Final build of A14)
+- Properly upstreamed TrebleDroid patches
+- Bluetooth compatibility issues mostly resolved
