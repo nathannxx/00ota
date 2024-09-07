@@ -4,6 +4,17 @@ Device: Pixel 7 Pro (cheetah)
 Device maintainer: Niv
 
 ====================
+     09-07-2024
+====================
+
+   * Synced with latest 5.2 sources
+   * Fixed vanilla builds stuck on starting this device due to PixelLauncher being included in Vanilla builds when the flag for pixel launcher inclusion is not set to false (Thanks to Ash & James for the headsup)
+   * Other vanilla fixes (Settings search not showing up, no browser being included etc)
+   * Fixed issue with google photos unblur not working/unable to download the required tools
+   * Fixed issues with now playing not working
+   * Fixed issues with certain google apps/features not working correctly when spoofed as mainline device (Pixel 9 Pro currently)
+
+====================
      08-03-2024
 ====================
 
