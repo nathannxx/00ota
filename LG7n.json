@@ -1,0 +1,21 @@
+{
+        "response": [
+          {
+            "maintainer": "Ren (Shirayuki39/Shirayuki428)",
+            "oem": "TECNO",
+            "device": "LG7n",
+            "filename": "RisingOS-5.2-FINAL-EOL-20240907-CORE-OFFICIAL-LG7n-ota.zip",
+            "download": "https://sourceforge.net/projects/risingos-official/files/5.x/CORE/LG7n/RisingOS-5.2-FINAL-EOL-20240907-CORE-OFFICIAL-LG7n-ota.zip/download",
+            "timestamp": 1725735892,
+            "md5": "16a6c0dba56d26739c9a1ee0a5ce4505",
+            "sha256": "682114ba7e31712a1d4b318b96807b1dd3079717f51fcd9048ad8ecf8a19182c",
+            "size": 2203381753,
+            "version": "5.2-Lyonesse",
+            "buildtype": "FINAL-EOL",
+            "forum": "https://t.me/shirayuki428stuffchat",
+            "telegram": "https://t.me/shirayuki_428",
+            "dt": "https://github.com/RisingOSS-devices/android_device_tecno_LG7n",
+            "common-dt": "https://github.com/RisingOSS-devices/android_device_tecno_mt6789-common"
+          }
+        ]
+      }
