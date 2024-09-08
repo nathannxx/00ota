@@ -1,3 +1,14 @@
+===== 2024.09.08 =====
+**REPO**
+- Synced with Rising as of 9/08/2024 / RisingOS 5.2 Lyonesse!
+
+**Device Tree**
+- Merged LOS September changes with Rising Device Tree
+- Fixed BCR ( basic call recorder ), is now shipping with rom
+
+**Vendor Device Tree**
+- Merged LOS ( themuppets ) September changes with Rising Vendor Tree
+
 ===== 2024.08.31 =====
 **REPO**
 - Synced with Rising as of 8/31/2024
