@@ -1,16 +1,16 @@
 {
 	"response": [
 		{
-			"maintainer": "EliteDarkKaiser",
-			"oem": "Google",
-			"device": "Pixel 7a",
-			"filename": "RisingOS-5.1-FINAL-20240831-VANILLA-OFFICIAL-lynx-ota-signed.zip",
-			"download": "https://sourceforge.net/projects/rising-os-for-lynx/files/Official/Vanilla-OTA/Android_14/RisingOS-5.1-FINAL-20240831-VANILLA-OFFICIAL-lynx-ota-signed.zip/download",
-			"timestamp": 1725128995,
-			"md5": "0f594d5a190853f30dc54323e56c85f2",
-			"sha256": "bf7d7e4a902b6ea9f18b796b50d6a4bb1b80bb9f2f2359cd853faba1752b5e26",
-			"size": 1702038056,
-			"version": "5.1-Lyonesse",
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "RisingOS-5.2-FINAL-EOL-20240910-VANILLA-OFFICIAL-lynx-ota-signed.zip",
+			"download": "https://sourceforge.net/projects/rising-os-for-lynx/files/Official/Vanilla-OTA/Android_14/RisingOS-5.2-FINAL-EOL-20240910-VANILLA-OFFICIAL-lynx-ota-signed.zip/download",
+			"timestamp": 1725929507,
+			"md5": "d515c9c0bf277af97483e2e32deee074",
+			"sha256": "ed679454879deb647b593e1434a31358c520224b92f8b4d504f1fed3d3eadc2b",
+			"size": 1741268475,
+			"version": "5.2-Lyonesse",
 			"buildtype": "",
 			"forum": "",
 			"gapps": "",
@@ -19,10 +19,10 @@
 			"bootloader": "",
 			"recovery": "",
 			"paypal": "",
-			"telegram": "https://t.me/RisingOS_Pixels",
-			"dt": "https://github.com/austineyoung2000/android_device_google_lynx/tree/Rising-4.x",
-			"common-dt": "https://github.com/LineageOS/android_device_google_gs201",
-			"kernel": "https://android.googlesource.com/device/google/lynx-kernel/+/refs/heads/main"
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
 		}
 	]
 }
