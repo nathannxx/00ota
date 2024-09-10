@@ -1,9 +1,9 @@
 {
 	"response": [
 		{
-			"maintainer": "",
-			"oem": "",
-			"device": "",
+			"maintainer": "EliteDarkKaiser",
+			"oem": "Google",
+			"device": "Pixel 7a",
 			"filename": "RisingOS-5.2-FINAL-EOL-20240910-GAPPS-OFFICIAL-lynx-ota-signed.zip",
 			"download": "https://sourceforge.net/projects/rising-os-for-lynx/files/Official/OTA-Recovery/Android_14/rom/RisingOS-5.2-FINAL-EOL-20240910-GAPPS-OFFICIAL-lynx-ota-signed.zip/download",
 			"timestamp": 1725926790,
@@ -19,10 +19,10 @@
 			"bootloader": "",
 			"recovery": "",
 			"paypal": "",
-			"telegram": "",
-			"dt": "",
-			"common-dt": "",
-			"kernel": ""
+			"telegram": "https://t.me/RisingOS_Pixels",
+			"dt": "https://github.com/austineyoung2000/android_device_google_lynx/tree/Rising-4.x",
+			"common-dt": "https://github.com/LineageOS/android_device_google_gs201",
+			"kernel": "https://android.googlesource.com/device/google/lynx-kernel/+/refs/heads/main"
 		}
 	]
 }
