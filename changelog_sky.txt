@@ -1,4 +1,11 @@
 ======================
+  09-09-2024
+======================
+- Synced with latest source changes for 5.2 release
+- Blobs updated to latest 1.0.6.0 UMWINXM
+- Default Dialer, Messaging & calendar has been change to Google Apps
+
+======================
   26-08-2024
 ======================
 - Synced with latest source changes for 5.0 release

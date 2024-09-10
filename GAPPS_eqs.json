@@ -1,28 +1,28 @@
 {
-        "response": [
-                {
-                        "maintainer": "davigamer987",
-                        "oem": "Motorola",
-                        "device": "Motorola X30 Pro/Edge 30 Ultra",
-                        "filename": "RisingOS-4.2-RELEASE-20240801-GAPPS-OFFICIAL-eqs-ota-signed.zip",
-                        "download": "https://sourceforge.net/projects/risingos-official/files/4.x/GAPPS/eqs/RisingOS-4.2-RELEASE-20240801-GAPPS-OFFICIAL-eqs-ota-signed.zip/download",
-                        "timestamp": 1722522235,
-                        "md5": "3712e05fa6e51af38366542875717ab6",
-                        "sha256": "96e0e5a380f2981ed5c59661bed06e98f80b6178ccda97460519da03549cfb90",
-                        "size": 2850186834,
-                        "version": "4.2-Kailash",
-                        "buildtype": "RELEASE",
-                        "forum": "https://t.me/edge30ultraroms",
-                        "gapps": "",
-                        "firmware": "",
-                        "modem": "",
-                        "bootloader": "",
-                        "recovery": "",
-                        "paypal": "",
-                        "telegram": "https://t.me/davigamer987",
-                        "dt": "https://github.com/RisingOSS-devices/android_device_motorola_eqs",
-                        "common-dt": "https://github.com/RisingOSS-devices/android_device_motorola_sm8475-common",
-                        "kernel": "https://github.com/holoction-eqs/android_kernel_motorola_sm8475/tree/moto-rebase"
-                }
-        ]
+	"response": [
+		{
+			"maintainer": "davigamer987",
+			"oem": "Motorola",
+			"device": "Motorola X30 Pro/Edge 30 Ultra",
+			"filename": "RisingOS-5.2-FINAL-EOL-20240909-GAPPS-OFFICIAL-eqs-ota-signed.zip",
+			"download": "https://sourceforge.net/projects/risingos-official/files/5.x/GAPPS/eqs/RisingOS-5.2-FINAL-EOL-20240909-GAPPS-OFFICIAL-eqs-ota-signed.zip/download",
+			"timestamp": 1725872307,
+			"md5": "f9f2f64992b02a82aa7439bbc5d38ee0",
+			"sha256": "408710c3bca686e5823f7e53ce9adfd1dba71e26568188cec27e8f0d39a1ad04",
+			"size": 2908518909,
+			"version": "5.2-Lyonesse",
+			"buildtype": "FINAL-EOL",
+			"forum": "https://t.me/edge30ultraroms",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/davigamer987",
+			"dt": "https://github.com/RisingOSS-devices/android_device_motorola_eqs",
+			"common-dt": "https://github.com/RisingOSS-devices/android_device_motorola_sm8475-common",
+			"kernel": "https://github.com/holoction-eqs/android_kernel_motorola_sm8475/tree/moto-rebase"
+		}
+	]
 }
