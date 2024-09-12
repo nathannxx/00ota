@@ -23,10 +23,17 @@ Required firmware:
 
 ============= 4 September 2024 (5.1) ===============
 
-- add more missing dolby audio codecs
 - switch to qti thermal hal
 - increase minimum brightness (to compensate for specific panels becoming too dim)
 - use AOSP surfaceflinger
 - enable more color calibrations for display (sRGB, saturated)
 - disable Smart Power Off (temporarily)
 - fix device waking when pressing fingerprint sensor
+- enable tilt sensor for waking to ambient
+
+============= 12 September 2024 (5.2 - EOL) ===============
+
+- Upgrade Dolby Atmos interface from AOSPA (intelligent eq)
+- Bring back Smart Power-Off
+- Display memory usage in app info settings
+- include improved powerhint and perfmgr
