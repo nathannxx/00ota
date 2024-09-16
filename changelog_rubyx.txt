@@ -1,0 +1,19 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 12 Pro (+) 5G / Note 12 Discovery 
+Device maintainer: hiroshi. (Superuser)
+Required firmware: Included in ROM
+
+============ 16 September 2024 (5.2.1) ===============
+
+- Initial Official build
+- No longer enable Dolby Atmos automatically at boot
+- reduce left side padding on lock screen carrier text
+- unpatch pocket mode to also use proximity sensor
+- Update ViPER4AndroidFX-RE (enhanced reverb) 
+- Detect OEM fast charger usage (Turbo Charging). (instead of just saying "Charging rapidly" for any kind of fast charger)
+- Fix sepolicy denials for Thermal Profiles
+- import carrier configs from peridot
+- fix and enable display color modes
+- Fixup Reality Engine
+- Prevent Airplane mode from toggling at boot (network optimizer)
