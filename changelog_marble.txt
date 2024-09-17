@@ -4,6 +4,11 @@ Device name: Poco F5/Redmi Note 12 Turbo
 Device codename: marble
 Device maintainer: SharmagRit
 
+=×=×= 17th Septempber 2024 =×=×=
+* Synced with latest RisingOS v5.2.1 EOL Lyonesse sources
+* marble: Fixed screen freeze issue, thanks to Chaitanya
+* marble: Enable several configs: like Smart 5g, Smart pixels, Double tap to ambient, Volume steps, Refresh Rate Tile etc
+
 =×=×= 09th Septempber 2024 =×=×=
 * Synced with latest RisingOS v5.2 Lyonesse sources
 * marble: Based on latest los base trees
