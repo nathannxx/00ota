@@ -4,6 +4,52 @@ Device: Redmi K20 Pro / MI 9T Pro (raphael/in)
 Device maintainer: Mohammad Al Arabi (@YourDulavai)
 Required firmware: MIUI A11 Firmware of your region
 
+===== 18-09-24 =====
+- Fixed Gphoto editor crash (should work every features including ai magic eraser and standalone magic eraser)
+- Fixed google Safety and realme link app crash
+- Fixed randomized MAC address (it was not available for some reason)
+- Fixed various app crashing (if some apps require the WebView app, simply install it from the Play Store)
+- Fixed memory leak from both side (if you still face low ram issues just restart the systemUI)
+- Improved overall performance and smoothness
+- Switch to EXT4 partition and Add reserved partition (only for vanilla build)
+- Many more fixes here and there
+- Drop doze (all doze related features is there in Settings/Personlize/Theme/Ambient Display)
+- Build Xiaomi sensors implementation
+- Add lift to wake
+- Disable qdcm display factory mode
+- Import MIUI brightness overlays
+- overlay: add Max Gamma Autobrightness adjustments
+- Ship Lawnchair in Gapps build as well (now there is 3 launcher in Gapps build: 1. Ortus 2. Pixel 3. Lawnchair)
+- Update Aderno to latest 786
+- Switch to common IFAAService
+- lmkd: kill heaviest task instead of any eligible task
+- Exclude CarrierConfig overlays from RRO
+- Import CarrierConfigs from CAF
+- Switch to QTI Thermal HAL
+- rootdir: Initial libperfmgr init config
+- powerhint: Improve power efficiency
+- powerhint: Drop display early_wakeup node
+- powerhint: Drop EnergyAware node
+- powerhint: Remove schedtune related stuff
+- powerhint: Don't mess with UFS clkgate
+- Adjust powerhint for QOS interface
+- Import powerhint.json
+- Remove QTI perfd and I/O prefetcher
+- Migrate to Xiaomi power AIDL HAL
+- dolby: Add profiles overlay for moto dolby
+- dolby: Update dax-default from moto
+- libstagefright_foundation-v33 moved to lineage compat
+- Switch dolby soundfx to libswdap
+- audio: Add dolby to audio effects
+- audio: Apply NLSound 4.0 optimization for dolby
+- audio: Forcefully disable volume leveler
+- Link Dolby Atmos dependencies against v33 libstagefright_foundation
+- Build XiaomiDolby
+- Import Dolby audio blobs and sepolicy
+- Kill dirac
+- Switch to QTI Memtrack AIDL HAL
+- I tried my best to create a perfect EOL build. I hope you all enjoy this amazing, fluent UI experience!
+
 ===== 28-08-24 =====
 
 - Initial QPR3 build
