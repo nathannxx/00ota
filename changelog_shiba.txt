@@ -1,3 +1,12 @@
+===== 2024.09.18 =====
+**REPO**
+- Synced with Rising as of 9/17/2024 / RisingOS 5.2.1 Lyonesse!
+- Fixed Circle2Search in fw/base - Big thanks to @albinoman887 
+
+**Device Tree**
+- Enabled Blur Flag - was disabled by defualt w/o flag
+- Shipping Viper4Android
+
 ===== 2024.09.08 =====
 **REPO**
 - Synced with Rising as of 9/08/2024 / RisingOS 5.2 Lyonesse!
