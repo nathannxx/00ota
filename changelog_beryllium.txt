@@ -4,6 +4,13 @@ Device: Poco F1 (beryllium)
 Device maintainer: Akshat
 
 ====================
+     09-18-2024
+====================
+- HOTFIX Build
+
+NOTE:- Dirty flash from previous build is possible
+
+====================
      09-16-2024
 ====================
 - Bumped to RisingOS 5.2.1(FINAL EOL)
