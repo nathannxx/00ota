@@ -3,8 +3,6 @@ Build type: Weekly
 Device: TECNO POVA 4 (LG7n)
 Device maintainer: Ren (Shirayuki39/Shirayuki428)
 
-===== 09-08-2024 =====
-- RisingOS 5.2 Changes
-- Improve Cellular Stability
-- Recommonized for faster updates for LG7n and LG8n
-- Fix Low Incall Volume
+===== 09-18-2024 =====
+- RisingOS 5.2.1 Changes
+- Fix LTE CA
