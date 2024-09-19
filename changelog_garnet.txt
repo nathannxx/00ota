@@ -37,3 +37,9 @@ Required firmware:
 - Bring back Smart Power-Off
 - Display memory usage in app info settings
 - include improved powerhint and perfmgr
+
+============= 19 September 2024 (5.2.1 - EOL) ===============
+
+- Update ViPER4Android FX-RE - UI v7.0, WSTxda driver fork
+- Update BCR to 1.71
+- address display flickering at low brightness
