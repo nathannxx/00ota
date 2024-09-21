@@ -4,6 +4,14 @@ Device name: Redmi Note 11 Pro 5G/ Poco X4 Pro 5G
 Device codename: veux
 Device maintainer: SeminaAlexandru(semialex16)
 
+=×=×= 21st September 2024 (EOL for Android14) =×=×=
+
+• Synced with latest risingOS sources.
+• Disabled Backpressure Propagation
+• Fixed Working Of QTI Thermal
+• Allowed System Apps To Access Zram Nodes
+• Fixed PowerOffAlarm
+
 =×=×= 28th July 2024 =×=×=
 
 • Synced with latest risingOS sources.

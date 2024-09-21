@@ -1,18 +1,18 @@
 {
 	"response": [
-		{
+			{
 			"maintainer": "SeminaAlexandru(semialex16)",
 			"oem": "Xiaomi",
 			"device": "veux",
-			"filename": "RisingOS-5.1-FINAL-20240831-GAPPS-OFFICIAL-veux-ota-signed.zip",
-			"download": "https://sourceforge.net/projects/risingos-official/files/5.x/GAPPS/veux/RisingOS-5.1-FINAL-20240831-GAPPS-OFFICIAL-veux-ota-signed.zip/download",
-			"timestamp": 1725121116,
-			"md5": "2aac166832e5d07dd9c16fc9a0cd2e59",
-			"sha256": "637dd85a4455ed8e272ddd1073e63bfaf1a7b4d4008ac84c9c8901811f19d5fd",
-			"size": 2308083558,
-			"version": "5.1-Lyonesse",
+			"filename": "RisingOS-5.2.1-FINAL-STABLE-EOL-20240921-GAPPS-OFFICIAL-veux-ota-signed.zip",
+			"download": "https://sourceforge.net/projects/risingos-official/files/5.x/GAPPS/veux/RisingOS-5.2.1-FINAL-STABLE-EOL-20240921-GAPPS-OFFICIAL-veux-ota-signed.zip/download",
+			"timestamp": 1726922067,
+			"md5": "6295dc968dbfcc8010134a73bd09c3cd",
+			"sha256": "c31db9298224c830fd263190f9612795510434f959045468cf5808b9f324b211",
+			"size": 2332641360,
+			"version": "5.2.1-Lyonesse",
 			"buildtype": "FINAL",
-			"forum": "",
+			"forum": "https://xdaforums.com/f/redmi-note-11-pro-5g-peux-poco-x4-pro-5g-veux.12555/",
 			"gapps": "",
 			"firmware": "",
 			"modem": "",
@@ -22,7 +22,7 @@
 			"telegram": "https://t.me/alexveuxchat",
 			"dt": "https://github.com/alexandrusemina/device_xiaomi_veux",
 			"common-dt": "",
-			"kernel": ""
+			"kernel": "https://github.com/dereference23/kernel_xiaomi_sm6375.git"
 		}
 	]
 }
