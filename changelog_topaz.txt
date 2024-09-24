@@ -4,6 +4,13 @@ Device: Redmi Note 12 4G
 Device maintainer: haruki達月
 Required firmware: Global FW 1.0.4.0 / Tapas | 1.0.4.0 / Topaz
 
+===== 24-09-24 =====
+• Update to 5.2.1
+• Change OTA from Vanilla to Gapps
+• September Security Patch
+• EOL Update
+• Added Pixel Launcher/Lawnchair Launcher
+
 ===== 31-08-24 =====
 
 - Signed Build
