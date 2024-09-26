@@ -11,9 +11,17 @@ Required firmware: Included in ROM
 - reduce left side padding on lock screen carrier text
 - unpatch pocket mode to also use proximity sensor
 - Update ViPER4AndroidFX-RE (enhanced reverb) 
-- Detect OEM fast charger usage (Turbo Charging). (instead of just saying "Charging rapidly" for any kind of fast charger)
-- Fix sepolicy denials for Thermal Profiles
 - import carrier configs from peridot
 - fix and enable display color modes
 - Fixup Reality Engine
 - Prevent Airplane mode from toggling at boot (network optimizer)
+
+============ 26 September 2024 (5.2.1) ===============
+
+- (properly) Detect OEM fast charger usage (Turbo Charging). (instead of just saying "Charging rapidly" for any kind of fast charging)
+- (properly) Fix sepolicy denials for Thermal Profiles
+- drop Smart Power-Off feature
+- Add missing front camera permission/feature 
+    - Fixes some apps being considered incompatible on Google Play
+- Set Dolby pref to false at boot 
+    - fixes QS tile and main switch showing enabled when dolby actually isn't processing after boot
