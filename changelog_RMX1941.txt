@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Testing
+Device: RMX1941
+Device maintainer: Nathan
+Required firmware: realmeUI 0.1
+
+===== 29-09-2024 =====
+- Initial Test Release, May expect a few bugs
