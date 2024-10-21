@@ -4,5 +4,7 @@ Device: RMX1941
 Device maintainer: Nathan
 Required firmware: realmeUI 0.1
 
-===== 29-09-2024 =====
-- Initial Test Release, May expect a few bugs
+===== XX-XX-2024 =====
+- Added RealmeParts
+- Improve Some Performance by adding Swap Service
+- Fix some visual bugs
